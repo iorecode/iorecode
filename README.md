@@ -15,6 +15,9 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/igor-cadore-884a422bb/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
